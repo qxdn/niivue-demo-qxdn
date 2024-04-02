@@ -2,7 +2,6 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import { NiiVue } from "./NiiVue";
 
-
 const BASE_URL = "https://cdn.jsdelivr.net/gh/qxdn/niivue-demo-qxdn@latest/assets";
 
 const App = () => {
