@@ -3,7 +3,7 @@ import ReactDOM from "react-dom/client";
 import { NiiVue } from "./NiiVue";
 
 
-const BASE_URL = "http://localhost:5500/assets";
+const BASE_URL = "https://cdn.jsdelivr.net/gh/qxdn/niivue-demo-qxdn@latest/assets";
 
 const App = () => {
   const DWI = [
